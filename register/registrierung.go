@@ -8,5 +8,4 @@ type Registrierung struct {
 	Schulungscode         string
 	Datum                 string
 	DatenschutzAkzeptiert bool
-	//Adresse etc. nicht dargestellt
 }
